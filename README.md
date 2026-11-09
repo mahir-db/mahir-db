@@ -7,9 +7,9 @@ I build mobile and web apps end to end, from requirements and design to testing 
 
 ## 🚀 Featured work
 - 📱 **[Noor El-Iman](https://play.google.com/store/apps/details?id=com.nooreliman.app)** – Islamic companion app on Google Play (prayer times, Athan, Azkar, Tasbih, Qibla). Built in Kotlin, with a Next.js companion site.
-- 🥗 **[NutFit AI](REPO_LINK)** – Android app with EfficientNet-B3 food recognition for calorie estimation and a RAG-based nutrition/fitness assistant.
-- 🛡️ **[CMS](REPO_LINK)** – Personal safety app with motion detection, live location, emergency alerts, and chat (Socket.IO + Maps).
-- 🛒 **[E-commerce platforms](REPO_LINK)** – Single-store and multi-store React frontends (Vite, Material UI, React Query).
+- 🥗 **NutFit AI – Android app with EfficientNet-B3 food recognition for calorie estimation and a RAG-based nutrition/fitness assistant.
+- 🛡️ **CMS – Personal safety app with motion detection, live location, emergency alerts, and chat (Socket.IO + Maps).
+- 🛒 **E-commerce platforms – Single-store and multi-store React frontends (Vite, Material UI, React Query).
 
 ## 🛠️ Tech stack
 **Mobile:** Kotlin · Java · Android SDK · Coroutines · Room · Retrofit · Firebase/FCM · Swift/SwiftUI
