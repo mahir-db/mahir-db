@@ -12,10 +12,10 @@ I build mobile and web apps end to end, from requirements and design to testing 
 - 🛒 **E-commerce platforms** – Single-store and multi-store React frontends (Vite, Material UI, React Query).
 
 ## 🛠️ Tech stack
-**Mobile:** Kotlin · Java · Android SDK · Coroutines · Room · Retrofit · Firebase/FCM · Swift/SwiftUI
-**Web:** React.js · Next.js · TypeScript · Tailwind CSS · Material UI · Django · Prisma
-**AI/ML:** Python · PyTorch · TensorFlow · Computer Vision · NLP · RAG
-**Data & tools:** MySQL · MongoDB · SQLite · Git · Postman · Figma
+- **Mobile:** Kotlin · Java · Android SDK · Coroutines · Room · Retrofit · Firebase/FCM · Swift/SwiftUI
+- **Web:** React.js · Next.js · TypeScript · Tailwind CSS · Material UI · Django · Prisma
+- **AI/ML:** Python · PyTorch · TensorFlow · Computer Vision · NLP · RAG
+- **Data & tools:** MySQL · MongoDB · SQLite · Git · Postman · Figma
 
 ## 🌱 Currently learning
 - IOS Developments with Swift & SwiftUI
